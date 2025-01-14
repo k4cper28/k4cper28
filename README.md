@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k4cper28
 - 👀 I’m interested in football
-- 🌱 I’m currently learning c++, java and swift
+- 🌱 I’m currently learning c++, java
 - 📫 How to reach me kacpersciuba@gmail.com
 
 <!---
