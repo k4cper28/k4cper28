@@ -22,4 +22,4 @@ Jestem absolwentem informatyki (mgr inż.) na Politechnice Lubelskiej. Skupiam s
 ### 📫 Skontaktuj się ze mną
 
 - **Email:** [kacpersciuba@gmail.com](mailto:kacpersciuba@gmail.com)
-- **LinkedIn:** [linkedin.com/in/twoj-profil](https://www.linkedin.com/in/kacper-%C5%9Bciuba/)
+- **LinkedIn:** [linkedin.com/in/kacper-%C5%9Bciuba/](https://www.linkedin.com/in/kacper-%C5%9Bciuba/)
